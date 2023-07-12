@@ -565,14 +565,14 @@ user-select: none;
     margin: 0 auto;
     height: 50vh;
     display: flex;
-    justify-content: space-between;
+    justify-content:flex-start;
   }
    
 
   .about-content{
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
 
   }
 
