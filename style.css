@@ -504,7 +504,7 @@ user-select: none;
     font-size:30px;
     color:white;
     padding-right: 30%;
-    
+    padding-top: 10%;
 
 
    }
@@ -560,7 +560,7 @@ user-select: none;
 
 
    .about-us{
-    width: 96%;
+    width: 94%;
     max-width: 1366px;
     margin: 0 auto;
     height: 50vh;
