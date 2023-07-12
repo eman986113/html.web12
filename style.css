@@ -560,19 +560,19 @@ user-select: none;
 
 
    .about-us{
-    width: 50%;
+    width: 100%;
     max-width: 1366px;
     margin: 0 auto;
     height: 50vh;
     display: flex;
-    justify-content:flex-start;
+    justify-content:space-between;
   }
    
 
   .about-content{
     display: flex;
     flex-direction: column;
-    justify-content: flex-start;
+    justify-content: center;
 
   }
 
